@@ -1,0 +1,24 @@
+{
+  "name": "benard-polidario-v2-28-april",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@shopify/koa-shopify-auth": "^3.2.0",
+    "dotenv": "^16.0.0",
+    "isomorphic-fetch": "^3.0.0",
+    "koa": "^2.13.4",
+    "koa-session": "^6.2.0",
+    "next": "^12.1.5",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
